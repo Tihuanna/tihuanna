@@ -1,6 +1,6 @@
 ### Olá, eu sou o Kevin William :D
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: kevin_casapc@hotmail.com
+- 🌱 Atualmente estou aprendendo Java
+- 📫 Entre em contato pelo e-mail: kevin_casapc@hotmail.com
 - 😄 Pronouns: ...He/Ele
 
 <div align="center">
