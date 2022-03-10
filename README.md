@@ -1,5 +1,5 @@
 ### Olá, eu sou o Kevin William :D
-- 🌱 Atualmente estou aprendendo Java
+- Formado como Full Stack Java JR
 - 📫 Entre em contato pelo e-mail: kevin_casapc@hotmail.com
 - 😄 Pronouns: ...He/Ele
 
