@@ -1,5 +1,5 @@
 ### Olá, eu sou o Kevin William :D
-- Formado como Full Stack Java JR
+- Desenvolvedor Back-end Jr
 - 📫 Entre em contato pelo e-mail: kevin_casapc@hotmail.com
 - 😄 Pronouns: ...He/Ele
 
